@@ -2,15 +2,6 @@
 
 A new Flutter project (Locket clone)
 
-## Getting Started
+## Figma
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_https://www.figma.com/design/9YBQsYJnJGy6Kq6YAuIcs9/Bijou?node-id=0-1&t=fxVUJjBxbNva0K4h-1_
