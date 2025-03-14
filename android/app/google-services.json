@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148616763862",
+    "project_id": "bijou-4c374",
+    "storage_bucket": "bijou-4c374.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148616763862:android:261ebbd3d1df5c8361ec77",
+        "android_client_info": {
+          "package_name": "com.example.bijou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVB2Vwqt9fSJ9XjhhFxhOLdj9f9fEZPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
